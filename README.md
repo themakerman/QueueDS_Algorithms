@@ -1,3 +1,5 @@
+#DATASTRUCTURE QUEUE OPERATIONS DESKTOP APPLICATION DEVELOPED IN JAVA
+
 To run this project you should have ECLIPSE IDE.
 
 Details : This is Simple Desktop Application made in JAVA to show Queue Datastructure Operations.Here are the screenshots for better understanding.
