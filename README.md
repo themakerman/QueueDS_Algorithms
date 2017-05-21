@@ -6,7 +6,6 @@ Description: Basic operations like enqueue() , deqeue(), printQueue() were imple
 User interface. The purpose of this project was to learn,implement FIFO algorithm and how to make transparent UI window design in java using Swing.
 
 Technology: Java, Java Swing development, Datastructure Algorithms
-Work Link: https://github.com/themakerman/QueueDS_Algorithms
 
 
 
