@@ -2,7 +2,12 @@
 
 To run this project you should have ECLIPSE IDE.
 
-Details : This is Simple Desktop Application made in JAVA to show Queue Datastructure Operations.Here are the screenshots for better understanding.
+Description: Basic operations like enqueue() , deqeue(), printQueue() were implement in
+User interface. The purpose of this project was to learn,implement FIFO algorithm and how to make transparent UI window design in java using Swing.
+
+Technology: Java, Java Swing development, Datastructure Algorithms
+Work Link: https://github.com/themakerman/QueueDS_Algorithms
+
 
 
 ![macmock1-psd](https://cloud.githubusercontent.com/assets/14818804/22245726/8ccd2374-e257-11e6-8d53-68789c16305c.png)
